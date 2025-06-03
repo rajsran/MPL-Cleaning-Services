@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CleanPro Services</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="quote-box" id="quoteBox">
+    <button class="close-btn" onclick="document.getElementById('quoteBox').style.display='none'">&times;</button>
+    <h2>GET A QUOTE</h2>
+    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <input type="text" name="name" placeholder="Your name" required />
+      <input type="text" name="address" placeholder="Address" required />
+      <input type="email" name="email" placeholder="Email Address" required />
+      <input type="tel" name="mobile" placeholder="Mobile No." required />
+      <label class="checkbox">
+        <input type="checkbox" required />
+        By submitting this form, I agree to the
+        <a href="#">Terms & Conditions</a> and <a href="#">TCPA Consent</a>.
+      </label>
+      <button type="submit" class="cta-button">Book A Cleaning</button>
+    </form>
+  </div>
+
+  <header>
+    <img src="img/logo.png" alt="MPL Cleaning Services Logo" class="logo" />
+    <h1>Professional Cleaning Company In Australia</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+<section class="tagline">
+  <h2>Because Clean Isn’t Optional.</h2>
+</section>
+
+    <section>
+      <h2>1. GET A QUOTE</h2>
+      <h2>2. CONFIRM BOOKING</h2>
+      <h2>3. WE'LL CLEAN IT</h2>
+    </section>
+  
+    <section>
+      <h2>Our Cleaning Services</h2>
+      <div class="service-images">
+        <div class="service-image">
+          <img src="img/house-cleaning.webp" alt="House Cleaning Service">
+          <p>House Cleaning</p>
+        </div>
+        <div class="service-image">
+          <img src="img/office-cleaning.webp" alt="Office Cleaning Service">
+          <p>Office Cleaning</p>
+        </div>
+      </div>
+    </section>
+    </main>
+    
+
+  <footer>
+    <p>&copy; 2025 CleanPro. All rights reserved.</p>
+  </footer>
+</body>
+</html>
