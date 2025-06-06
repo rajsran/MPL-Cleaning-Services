@@ -1,0 +1,61 @@
+# Query: +971553368891
+# ContextLines: 1
+
+13 results - 5 files
+
+about.html:
+  111  								<h3 class="heading">For Emergency Cases</h3>
+  112: 								<span class="phone">+61469899190</span>
+  113  							</div>
+
+  447  							<li><a href="#"><span class="icon fa fa-phone"></span><span
+  448: 										class="text">+61469899190</span></a></li>
+  449  							<li><a href="#"><span class="icon fa fa-paper-plane"></span><span
+
+contact.html:
+   27  				<div class="col-12 col-md d-flex align-items-center">
+   28: 					<p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">+61469899190</a> or <span
+   29  							class="mailus">email us:</span> <a href="#">shadesco555@gmail.com</a></p>
+
+  113  									<div class="text">
+  114: 										<p><span>Phone:</span> <a href="tel://1234567920">+61469899190</a></p>
+  115  									</div>
+
+  251  							<li><a href="#"><span class="icon fa fa-phone"></span><span
+  252: 										class="text">+971553368891</span></a></li>
+  253  							<li><a href="#"><span class="icon fa fa-paper-plane"></span><span
+
+index.html:
+   30  				<div class="col-12 col-md d-flex align-items-center">
+   31: 					<p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">+61469899190/a> or <span
+   32  							class="mailus">email us:</span> <a href="#">shadesco555@gmail.com</a></p>
+
+   90  						<img src="images/whatsapp.png" alt="">
+   91: 						<a href="https://wa.me/+61469899190" target="_blank"
+   92  							class="btn btn-success text-light mr-md-4 py-2 px-4 fs-3">
+
+  172  								<h3 class="heading">For Emergency Cases</h3>
+  173: 								<span class="phone">+61469899190</span>
+  174  							</div>
+
+  805  							<li><a href="#"><span class="icon fa fa-phone"></span><span
+  806: 										class="text">+61469899190</span></a></li>
+  807  							<li><a href="#"><span class="icon fa fa-paper-plane"></span><span
+
+portfolio.html:
+   27          <div class="col-12 col-md d-flex align-items-center">
+   28:           <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">+61469899190</a> or <span
+   29                class="mailus">email us:</span> <a href="#">shadesco555@gmail.com</a></p>
+
+  273  							<li><a href="#"><span class="icon fa fa-phone"></span><span
+  274: 										class="text">+61469899190</span></a></li>
+  275  							<li><a href="#"><span class="icon fa fa-paper-plane"></span><span
+
+services.html:
+   27          <div class="col-12 col-md d-flex align-items-center">
+   28:           <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">+61469899190</a> or <span
+   29                class="mailus">email us:</span> <a href="#">shadesco555@gmail.com</a></p>
+
+  250                <li><span class="icon fa fa-map-marker"></span><span class="text"> UAE</span></li>
+  251:               <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+61469899190</span></a></li>
+  252                <li><a href="#"><span class="icon fa fa-paper-plane"></span><span

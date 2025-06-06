@@ -8050,7 +8050,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
 
 .ftco-navbar-light {
-  background: rgba(255, 255, 255, 0.2) !important;
+  background: #fff !important;
   position: absolute;
   top: 28px;
   left: 0;
